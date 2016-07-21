@@ -1,3 +1,4 @@
+![Demo image](/demo.png?raw=true)
 # LCD Screenshot Generator
 Words go in, vaguely believable screenshots come out.
 ## Usage
